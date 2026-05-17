@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# SQLite database
+backend/instance/
+
+# Node
+frontend/node_modules/
+
+# Vite
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
